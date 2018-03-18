@@ -1,0 +1,26 @@
+.jumbotron {
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+color: silver;
+  background-image: url(https://image.freepik.com/free-vector/geometric-background-with-text-of-coming-soon_1017-5069.jpg);
+}
+h1{
+  color: black;
+  font-size: 72px;
+  font-weight: 600;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+p {
+  font-weight: 400;
+  font-size: 22px;
+}
+.lead{
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
